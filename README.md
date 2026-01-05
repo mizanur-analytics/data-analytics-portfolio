@@ -1,4 +1,4 @@
-Data Analytics Portfolio
+#Data Analytics Portfolio
 
 Welcome to my Data Analytics Portfolio. This repository contains a collection of real-world data analysis projects demonstrating my skills in data cleaning, exploratory data analysis (EDA), visualization, and business-focused insights.
 
